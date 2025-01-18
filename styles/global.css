@@ -58,7 +58,7 @@ h3 {
   line-height: "1.2";
   font-weight: var(--fw-bold);
   color: var(--text-color-primary);
-  letter-spacing: -0.04em;
+  letter-spacing: -0.04rem;
 }
 
 h1 {
